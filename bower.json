@@ -1,0 +1,23 @@
+{
+  "name": "bpmn-font",
+  "description": "A CMMN 1.1 icon font",
+  "version": "0.1.0",
+  "keywords": [
+    "bpmn",
+    "font",
+    "iconfont",
+    "icons"
+  ],
+  "main": "dist/*",
+  "authors": [
+    "Patrick Dehn <patrick.dehn@camunda.com>",
+    "bpmn.io (http://bpmn.io)"
+  ],
+  "license": "SIL",
+  "homepage": "https://github.com/bpmn-io/cmmn-font",
+  "ignore": [
+    "docs",
+    "source",
+    "resources"
+  ]
+}
