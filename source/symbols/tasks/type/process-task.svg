@@ -5,15 +5,14 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   id="svg2"
-   viewBox="0 0 2000 2000"
+   width="2000"
    height="2000"
-   width="2000">
+   id="svg3891"
+   version="1.1">
   <defs
-     id="defs4" />
+     id="defs3893" />
   <metadata
-     id="metadata7">
+     id="metadata3896">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -21,30 +20,26 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title></dc:title>
-        <cc:license
-           rdf:resource="https://github.com/bpmn-io/bpmn-font/blob/master/LICENSE" />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title />
-          </cc:Agent>
-        </dc:creator>
-        <dc:subject>
-          <rdf:Bag>
-            <rdf:li>BPMN</rdf:li>
-            <rdf:li>bpmn-io</rdf:li>
-            <rdf:li>bpmn.io</rdf:li>
-            <rdf:li>Font</rdf:li>
-          </rdf:Bag>
-        </dc:subject>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,947.63784)"
-     id="layer1">
-    <path
-       d="M 135.82227,-528.63867 433.81445,52.449219 136.10547,639.36133 l 1432.28123,0 297.7969,-587.085939 -297.9043,-580.914061 z m 114.56445,70 1275.12308,0 262.0957,511.087889 -262.2032,516.912111 -1275.29878,0 L 512.39453,52.275391 C 425.05786,-118.02892 337.72254,-288.33392 250.38672,-458.63867 Z"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:70;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect4139" />
+     id="layer1"
+     transform="translate(0,947.63783)">
+    <g
+       transform="matrix(96.752895,0,0,96.752895,55.328158,-100816.34)"
+       id="layer1-6">
+      <g
+         transform="matrix(0.00875555,0,0,0.00873255,-0.51135454,1042.2641)"
+         id="layer1-3">
+        <g
+           id="layer1-7"
+           transform="matrix(0.97063296,0,0,0.96801188,219.83869,-19.572869)" />
+      </g>
+      <path
+         d="m 3.0552228,1034.3075 c -1.9864304,0 -3.60156262,1.6151 -3.60156262,3.6015 l 0,9.3008 c 0,1.9865 1.61513222,3.6016 3.60156262,3.6016 l 13.4687482,0 c 1.986429,0 3.601561,-1.6151 3.601561,-3.6016 l 0,-9.3008 c 0,-1.9864 -1.615132,-3.6015 -3.601561,-3.6015 l -13.4687482,0 z m 0,1.0332 13.4687482,0 c 1.431714,0 2.568358,1.1366 2.568358,2.5683 l 0,9.3008 c 0,1.4317 -1.136644,2.5664 -2.568358,2.5664 l -13.4687482,0 c -1.4317155,0 -2.56835972,-1.1347 -2.56835972,-2.5664 l 0,-9.3008 c 0,-1.4317 1.13664422,-2.5683 2.56835972,-2.5683 z m -0.8812758,2.2189 3.3017544,4.9773 -3.297721,5.0259 12.3713336,0 3.299149,-5.0281 -3.300327,-4.9751 z m 1.3477805,0.7215 10.6359615,0 2.823088,4.2558 -2.824266,4.3043 -10.6388169,0 2.8256933,-4.3065 c -0.9405486,-1.4178 -1.8811058,-2.8357 -2.8216599,-4.2536 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.03356075;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5.04377699;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect3804-5" />
+    </g>
   </g>
 </svg>

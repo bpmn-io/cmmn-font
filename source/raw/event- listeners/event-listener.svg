@@ -12,12 +12,12 @@
    width="2000"
    height="2000"
    viewBox="0 0 2000 2000"
-   id="svg2"
+   id="svg4135"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="case.svg">
+   sodipodi:docname="event-listener.svg">
   <defs
-     id="defs4" />
+     id="defs4137" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,13 +26,12 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.22627417"
-     inkscape:cx="2167.038"
-     inkscape:cy="856.3364"
+     inkscape:cx="1459.5974"
+     inkscape:cy="923.69348"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer9"
      showgrid="true"
      units="px"
-     showguides="false"
      inkscape:window-width="1920"
      inkscape:window-height="1028"
      inkscape:window-x="0"
@@ -40,47 +39,42 @@
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
-       id="grid4008"
-       empspacing="100"
-       dotted="false" />
+       id="grid4683" />
   </sodipodi:namedview>
   <metadata
-     id="metadata7">
+     id="metadata4140">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-        <cc:license
-           rdf:resource="https://github.com/bpmn-io/bpmn-font/blob/master/LICENSE" />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title />
-          </cc:Agent>
-        </dc:creator>
-        <dc:subject>
-          <rdf:Bag>
-            <rdf:li>BPMN</rdf:li>
-            <rdf:li>bpmn-io</rdf:li>
-            <rdf:li>bpmn.io</rdf:li>
-            <rdf:li>Font</rdf:li>
-          </rdf:Bag>
-        </dc:subject>
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Ebene 1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,947.63784)">
-    <path
-       id="path6729"
-       style="opacity:1;fill:none;fill-opacity:0.28037385;stroke:#000000;stroke-width:70;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 151.10529,-297.63784 1050.39471,0 -951.5,0 265.75,-300.00004 367.9108,0.70979 277.8392,299.29021 691.3947,0 0,1004 -1701.78941,0 z"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccc" />
+    <ellipse
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:99.99999237;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:488.00009155;stroke-opacity:1"
+       id="path4685"
+       cx="1000"
+       cy="52.362164"
+       rx="850"
+       ry="850.00006" />
+    <circle
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:100.00001526;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:488.00009155;stroke-opacity:1"
+       id="path4687"
+       cx="1000"
+       cy="52.362164"
+       r="650" />
+    <g
+       style="display:inline"
+       inkscape:label="Ebene 2"
+       id="layer9"
+       transform="matrix(0.67351724,0,0,0.67506537,333.75633,-675.6831)" />
   </g>
 </svg>
