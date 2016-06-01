@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="2000"
+   height="2000"
+   viewBox="0 0 2000 2000"
+   id="svg2"
+   version="1.1">
+  <metadata
+     id="metadata6085">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4" />
+  <g
+     id="layer1"
+     transform="translate(0,947.63784)">
+    <g
+       transform="translate(2650.9998,98.999948)"
+       id="layer1-7" />
+    <path
+       d="m 949.74725,302.11534 0,300 100.00005,0 0,-300 -100.00005,0 z m 522.93045,-949.75318 -945.35153,0.002 C 384.88467,-511.10538 242.44215,-374.57588 100,-238.04604 l 0.002,580.8203 427.32222,409.5879 c 349.25808,0 619.98998,0 945.34958,0 L 1900,342.77626 l 0,-580.8223 z m -40.1855,100 367.5078,352.25977 0,495.48633 -367.5117,352.2539 -132.4883,0 0,-500 -600,0 0,500 -132.49023,0 L 200.00195,300.10626 200,-195.37807 567.51367,-547.63589 Z m -632.4922,800 400,0 0,400 -400,0 z m 50,150 0,100 300,0 0,-100 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:100;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:54.90000153;stroke-dasharray:none;stroke-dashoffset:700;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path7250" />
+  </g>
+</svg>
