@@ -5,7 +5,7 @@ A CMMN 1.1 icon font. Use it to model CMMN diagrams in your Word, VIM or other t
 ![Font Preview](./resources/symbols.png)
 
 
-Checkout the [demo page](https://rawgit.com/bpmn-io/cmmn-font/master/dist/demo.html) for a list of included icons and their character code.
+Checkout the [demo page](https://cdn.staticaly.com/gh/bpmn-io/cmmn-font/master/dist/demo.html) for a list of included icons and their character code.
 
 
 ## Usage in HTML
